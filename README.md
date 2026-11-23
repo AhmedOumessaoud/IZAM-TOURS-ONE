@@ -29,3 +29,9 @@ Syntaxe JavaScript validée avec `node --check`. Ressources HTML locales et rép
 ## Correction PC et mobile
 
 `css/reference.css` conserve les proportions mobiles et applique une mise en page d?di?e d?s 769 px. Le h?ros et Merzouga utilisent des photographies g?n?r?es continues pour ?viter les d?coupes visibles dans les captures pr?c?dentes. Les photos des destinations et activit?s restent extraites de la r?f?rence. Les boutons et les d?tails du circuit ont ?t? redimensionn?s pour ?viter les d?bordements. La syntaxe JavaScript, les ressources locales et les accolades CSS ont ?t? v?rifi?es. La nouvelle comparaison visuelle dans Chrome n?a pas pu ?tre men?e : la fen?tre renvoie une erreur de fen?tre minimis?e dans l?outil de contr?le.
+
+## Ic?nes
+
+Les ic?nes utilisent des SVG locaux Font Awesome Free, Material Design Icons et Game-icons.net. Drapeaux SVG Flag Icons. Sources et licences : `assets/icons/ATTRIBUTION.md`. Le symbole Excursions combine une vraie ?pingle et un trac? pointill?. Aper?u : `icons-preview.html`. Les ic?nes restent vectorielles ? toutes les tailles.
+
+T?l?phone pour les appels : **0666 408 104** (`+212666408104`). WhatsApp : **+212660114045**, inchang?.

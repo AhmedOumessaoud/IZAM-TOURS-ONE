@@ -1,0 +1,20 @@
+{
+  "plane": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/plane.svg",
+  "pin": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/location-dot.svg",
+  "glass": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/champagne-glasses.svg",
+  "mountain": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/mountain-sun.svg",
+  "wa": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/whatsapp.svg",
+  "phone": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/phone.svg",
+  "calendar": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/regular/calendar-days.svg",
+  "shield": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/shield-halved.svg",
+  "badge": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/award.svg",
+  "people": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/people-group.svg",
+  "sliders": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/sliders.svg",
+  "quad": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/atv.svg",
+  "camel": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/camel.svg",
+  "dinner": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/room-service.svg",
+  "tent": "https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/tent.svg",
+  "flag-fr": "https://raw.githubusercontent.com/lipis/flag-icons/v7.3.2/flags/4x3/fr.svg",
+  "flag-en": "https://raw.githubusercontent.com/lipis/flag-icons/v7.3.2/flags/4x3/gb.svg",
+  "flag-es": "https://raw.githubusercontent.com/lipis/flag-icons/v7.3.2/flags/4x3/es.svg"
+}
